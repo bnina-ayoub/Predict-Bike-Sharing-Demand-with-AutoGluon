@@ -28,15 +28,15 @@ If I were given more time with the dataset I would spend it in feature engineeri
 
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
 
-![ModelsTable.png](img/ModelsTable.png.png)
+![ModelsTable.png](img/ModelsTable.png)
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
-![training-run.png](cd0385-project-starter/project/img/training-run.png)
+![training-run.png](img/training-run)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
-![kaggle-score.png](cd0385-project-starter/project/img/kaggle-score.png)
+![kaggle-score.png](img/kaggle-score.png)
 
 ## Summary
 In summary, I followed a machine learning pipeline for predicting bike sharing demand using AutoGluon. I started with initial training, then performed exploratory data analysis to create new features, followed by hyperparameter tuning to improve the model's performance. This report provides a documented record of the process and the results achieved at each stage.
