@@ -32,7 +32,7 @@ If I were given more time with the dataset I would spend it in feature engineeri
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
-![training-run.png](img/training-run)
+![training-run.png](img/training-run.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
